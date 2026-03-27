@@ -4,9 +4,3 @@
 
 # Ejecutables
 *.out
-
-
-# ==============================
-# Imágenes generadas (outputs)
-# ==============================
-images/outputs/
