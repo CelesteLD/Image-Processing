@@ -1,6 +1,4 @@
-# ==============================
-# Compilación C++
-# ==============================
-
-# Ejecutables
-*.out
+# Binarios compilados
+image_mpi
+image_cuda
+a.out
